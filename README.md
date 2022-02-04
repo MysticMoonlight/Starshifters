@@ -9,7 +9,7 @@ And it is the first modpack to not include 'Enhanced' in the modpack name.
 There is Steam Workshop version of tModLoader 1.4 are planned.
 
 ## Features
-- Your new companion, Starfarer!
+- Your new companion, [Starfarer](https://forums.terraria.org/index.php?threads/the-stars-above-conquer-the-worlds-evils-starfarers-at-your-side-v1-0-released.105442/)!
 - Features popular mods like Calamity Mod, The Stars Above, and more!
 - Modpack which keeps original Terraria mechanics
 - New weather system
