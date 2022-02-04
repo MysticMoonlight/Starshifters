@@ -32,7 +32,7 @@ Using the fresh characters and saves are recommended when using our modpack.
 7. You are done! Enjoy the modpack.
 
 ### Linux
-Known issue: Linux version of tModLoader has a bug which download features are not working. Unfortunately, you must install the mod manually from [this page](https://mirror.sgkoi.dev/) unless the tModLoaded fixes their mod.
+Known issue: Linux version of tModLoader has a bug which download features are not working. Unfortunately, you must install the mod manually from [this page](https://mirror.sgkoi.dev/) unless the tModLoader team fixes their modloader.
 
 Remember to put the mods file into Mods folder mentioned below!
 
