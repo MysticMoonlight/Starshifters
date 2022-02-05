@@ -1,5 +1,5 @@
-![Starshifters Logo](https://user-images.githubusercontent.com/25527589/152513974-d012f913-a975-4d7d-bbd6-b867682c04d9.png)
-> **"Welcome to the world of Starfarer"**
+![Starshifters Logo](https://raw.githubusercontent.com/MysticMoonlight/Starshifters/main/artworks/Alt%20Starshifters%20New%20Logo%20(No%20BG).png)
+> **"The Shattered Stars"**
 
 ## Description
 'Starshifters' is the 10th EnhancedMod series and based on popular modloader for Terraria, tModLoader.
@@ -9,9 +9,7 @@ And it is the first modpack to not include 'Enhanced' in the modpack name.
 There is Steam Workshop version of tModLoader 1.4 are planned.
 
 ## Features
-- Your new companion, [Starfarer](https://forums.terraria.org/index.php?threads/the-stars-above-conquer-the-worlds-evils-starfarers-at-your-side-v1-0-released.105442/)!
-- Features popular mods like Calamity Mod, The Stars Above, and more!
-- Modpack which keeps original Terraria mechanics
+- Features popular mods like Calamity Mod, Elements Awoken, and more!
 - New weather system
 - Few 1.4 features were backported into tModLoader 1.3 (Will be obsolete in the future)
 - Few improvements to Vanilla
