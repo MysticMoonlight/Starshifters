@@ -1,6 +1,9 @@
 ![Starshifters Logo](https://raw.githubusercontent.com/MysticMoonlight/Starshifters/main/artworks/Alt%20Starshifters%20New%20Logo%20(No%20BG).png)
 > **"The Shattered Stars"**
 
+## Announcement
+This project is on hold due to mod manager bug on Linux. Unless tModLoader team fixes their mod download issue, this project will stay on hold.
+
 ## Description
 'Starshifters' is the 10th EnhancedMod series and based on popular modloader for Terraria, tModLoader.
 
