@@ -2,7 +2,7 @@
 > **"The Shattered Stars"**
 
 ## Announcement
-This project is on hold due to mod manager bug on Linux. Unless tModLoader team fixes their mod download issue, this project will stay on hold.
+This project is cancelled due to unfriendly modding environment. [More info can be found here.](https://twitter.com/Mysty_Moonlight/status/1501707652002639872)
 
 ## Description
 'Starshifters' is the 10th EnhancedMod series and based on popular modloader for Terraria, tModLoader.
